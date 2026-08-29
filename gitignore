@@ -1,0 +1,14 @@
+# Segredos / configuração local
+.env
+
+# Pastas de resultado e cache geradas automaticamente pelos módulos
+oligoformer_results/
+dsir_results/
+dsir_weights_cache/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
