@@ -14,7 +14,7 @@ import os
 # nenhuma configuração é necessária: a pasta é criada automaticamente na primeira execução.
 #
 # OLIGOFORMER_DIR e OLIGOFORMER_CONDA_ENV dependem de uma instalação externa do OligoFormer
-# (https://github.com/) que não faz parte deste repositório, e por isso são lidas de variáveis
+# (https://github.com/lulab/OligoFormer) que não faz parte deste repositório, e por isso são lidas de variáveis
 # de ambiente em vez de hard-coded. Veja o README para instruções de configuração.
 
 _MODULE_DIR = pathlib.Path(__file__).resolve().parent
