@@ -5,10 +5,17 @@
 oligoformer_results/
 dsir_results/
 dsir_weights_cache/
-
+MAPT_transcripts.fasta
+*.csv
+*.pkl
+*.fasta
+final_results
 # Python
 __pycache__/
 *.pyc
 
 # Jupyter
 .ipynb_checkpoints/
+
+#personal
+.old
