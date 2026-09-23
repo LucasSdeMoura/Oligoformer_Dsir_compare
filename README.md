@@ -97,3 +97,12 @@ células em ordem, de cima para baixo.
 - As células iniciais de teste de conectividade com a API do NCBI fazem chamadas reais à rede a
   cada execução do notebook; falhas transitórias (rate limit, instabilidade de rede) podem
   acontecer e normalmente basta rodar de novo.
+
+## Versões
+
+Os resultados apresentados no relatório de iniciação científica correspondem
+à tag `ic1-v1.0`.
+
+A branch `main` contém correções posteriores à entrega, sem impacto sobre a
+validação contra a patente de PCSK9, que permanece idêntica até a sexta casa
+decimal. Os detalhes estão descritos no pull request #1.
