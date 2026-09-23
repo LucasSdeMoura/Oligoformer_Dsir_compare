@@ -25,7 +25,6 @@ repositório — não é preciso criá-las manualmente nem configurar nenhum pat
 - `dsir_results/`
 - `dsir_weights_cache/`
 
-Recomendado adicionar essas três ao `.gitignore` — são dados gerados/cache, não código.
 
 ## Pré-requisitos
 
